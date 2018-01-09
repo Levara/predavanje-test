@@ -1,5 +1,6 @@
 #include <stdio.h>  
 
+/* Pero djuro */
 int main(void)
 {
   int a = 10;
